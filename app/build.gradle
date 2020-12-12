@@ -46,4 +46,8 @@ dependencies {
 
     implementation 'com.jakewharton:butterknife:10.2.3'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+
+    implementation 'no.nordicsemi.android.support.v18:scanner:1.4.2'
+    implementation 'no.nordicsemi.android:ble:2.2.4'
+    implementation 'no.nordicsemi.android:dfu:1.11.0'
 }
